@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
+    <RootNamespace>SubSonic.Testing</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="FluentAssertions" Version="7.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.1" />
+    <PackageReference Include="NSubstitute" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Condition="'$(Configuration)' == 'Debug'" Include="..\SubSonic.Configuration\SubSonic.Configuration.csproj" />
+    <PackageReference Condition="'$(Configuration)' == 'Release'" Include="SubSonic.Configuration" Version="0.0.0" />
+    <ProjectReference Condition="'$(Configuration)' == 'Debug'" Include="..\SubSonic.Domain\SubSonic.Domain.csproj" />
+    <ProjectReference Include="..\SubSonic.Security\SubSonic.Security.csproj" />
+    <PackageReference Condition="'$(Configuration)' == 'Release'" Include="SubSonic.Domain" Version="0.0.0" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net8.0'">
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing">
+      <Version>8.0.7</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing">
+      <Version>6.0.32</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  
+</Project>

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net6.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Condition="'$(Configuration)' == 'Debug'" Include="..\SubSonic.Configuration\SubSonic.Configuration.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Condition="'$(Configuration)' == 'Release'" Include="SubSonic.Configuration" Version="0.0.0" />
+    <ProjectReference Condition="'$(Configuration)' == 'Debug'" Include="..\SubSonic.Notification.Abstraction\SubSonic.Notification.Abstraction.csproj" />
+    <PackageReference Condition="'$(Configuration)' == 'Release'" Include="SubSonic.Notification.Abstraction" Version="0.0.0" />
+  </ItemGroup>
+
+</Project>
