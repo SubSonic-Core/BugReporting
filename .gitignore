@@ -1,0 +1,6 @@
+.vs/
+Host/obj/
+SubSonic.Net.UnitTesting/bin/
+SubSonic.Net.UnitTesting/obj/
+Host/bin/
+SubSonic.OpenTelemetry.Abstractions/

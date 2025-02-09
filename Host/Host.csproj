@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SubSonic.Configuration\SubSonic.Configuration.csproj" />
+    <ProjectReference Include="..\SubSonic.Domain\SubSonic.Domain.csproj" />
+    <ProjectReference Include="..\SubSonic.Notification.Web\SubSonic.Notification.Web.csproj" />
+    <ProjectReference Include="..\SubSonic.Notification\SubSonic.Notification.csproj" />
+  </ItemGroup>
+
+</Project>
