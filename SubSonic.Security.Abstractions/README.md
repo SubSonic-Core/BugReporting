@@ -1,1 +1,0 @@
-# SubSonic.Security.Abstractions

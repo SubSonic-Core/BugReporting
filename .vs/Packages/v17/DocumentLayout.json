@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49DB36-793E-4704-A07E-2B64A6F95DAF}|SubSonic.Testing\\SubSonic.Testing.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\subsonic.testing\\testfixtures\\webapitestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49DB36-793E-4704-A07E-2B64A6F95DAF}|SubSonic.Testing\\SubSonic.Testing.csproj|solutionrelative:subsonic.testing\\testfixtures\\webapitestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49DB36-793E-4704-A07E-2B64A6F95DAF}|SubSonic.Testing\\SubSonic.Testing.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\subsonic.testing\\webapitestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49DB36-793E-4704-A07E-2B64A6F95DAF}|SubSonic.Testing\\SubSonic.Testing.csproj|solutionrelative:subsonic.testing\\webapitestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326A2F58-C1AD-47CF-A45C-5C2675C8944E}|SubSonic.Notification.Web\\SubSonic.Notification.Web.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\subsonic.notification.web\\webnotificationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326A2F58-C1AD-47CF-A45C-5C2675C8944E}|SubSonic.Notification.Web\\SubSonic.Notification.Web.csproj|solutionrelative:subsonic.notification.web\\webnotificationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E04C49-7909-42E4-B2E0-C33F99BAFCDB}|Host\\Host.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\host\\host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80E04C49-7909-42E4-B2E0-C33F99BAFCDB}|Host\\Host.csproj|solutionrelative:host\\host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E04C49-7909-42E4-B2E0-C33F99BAFCDB}|Host\\Host.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E04C49-7909-42E4-B2E0-C33F99BAFCDB}|Host\\Host.csproj|solutionrelative:host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388187B1-BAC0-48F8-9328-E4416940A638}|SubSonic.Net.UnitTesting\\SubSonic.Net.UnitTesting.csproj|d:\\users\\kenneth.carter\\onedrive\\documents\\bugreporting\\subsonic.net.unittesting\\notification\\notificationtestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388187B1-BAC0-48F8-9328-E4416940A638}|SubSonic.Net.UnitTesting\\SubSonic.Net.UnitTesting.csproj|solutionrelative:subsonic.net.unittesting\\notification\\notificationtestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationTestFixture.cs",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Net.UnitTesting\\Notification\\NotificationTestFixture.cs",
+              "RelativeDocumentMoniker": "SubSonic.Net.UnitTesting\\Notification\\NotificationTestFixture.cs",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Net.UnitTesting\\Notification\\NotificationTestFixture.cs",
+              "RelativeToolTip": "SubSonic.Net.UnitTesting\\Notification\\NotificationTestFixture.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:08:57.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiTestFixture.cs",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Testing\\TestFixtures\\WebApiTestFixture.cs",
+              "RelativeDocumentMoniker": "SubSonic.Testing\\TestFixtures\\WebApiTestFixture.cs",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Testing\\TestFixtures\\WebApiTestFixture.cs",
+              "RelativeToolTip": "SubSonic.Testing\\TestFixtures\\WebApiTestFixture.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:11:55.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiTestFactory.cs",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Testing\\WebApiTestFactory.cs",
+              "RelativeDocumentMoniker": "SubSonic.Testing\\WebApiTestFactory.cs",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Testing\\WebApiTestFactory.cs",
+              "RelativeToolTip": "SubSonic.Testing\\WebApiTestFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:11:40.228Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebNotificationProvider.cs",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Notification.Web\\WebNotificationProvider.cs",
+              "RelativeDocumentMoniker": "SubSonic.Notification.Web\\WebNotificationProvider.cs",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\SubSonic.Notification.Web\\WebNotificationProvider.cs",
+              "RelativeToolTip": "SubSonic.Notification.Web\\WebNotificationProvider.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:40:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Host",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\Host\\Host.csproj",
+              "RelativeDocumentMoniker": "Host\\Host.csproj",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\Host\\Host.csproj",
+              "RelativeToolTip": "Host\\Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T22:39:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "Host\\Program.cs",
+              "ToolTip": "D:\\Users\\Kenneth.Carter\\OneDrive\\Documents\\BugReporting\\Host\\Program.cs",
+              "RelativeToolTip": "Host\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:39:13.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
